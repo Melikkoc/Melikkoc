@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melikkoc&label=Profile%20views&color=0e75b6&style=flat" alt="melikkoc" /> </p>
 
-- 🌱 I’m currently learning **php, vue.js**
+- 🌱 I’m currently learning **angular, nest.js**
 
 - 📫 How to reach me **melikkoc2007@gmail.com**
 
