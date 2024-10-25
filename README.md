@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **angular, nest.js**
 
-- 📫 How to reach me **melikkoc2007@gmail.com**
+- 📫 How to reach me **Meliksah@spootech.com**
 
 <p align="left">
 </p>
